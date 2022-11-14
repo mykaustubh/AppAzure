@@ -65,7 +65,11 @@
             <version>7.4.0</version>
             <scope>compile</scope>
         </dependency>
-
+        <dependency>
+            <groupId>com.github.lambdatest</groupId>
+            <artifactId>lambdatest-tunnel-binary</artifactId>
+            <version>1.0.14</version>
+        </dependency>
     </dependencies>
 
 </project>

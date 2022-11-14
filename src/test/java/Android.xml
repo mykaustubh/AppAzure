@@ -12,12 +12,12 @@
         </classes>
     </test>
 
-    <test name="AppTest 2">
-        <parameter name="version" value="11"/>
-        <parameter name="platform" value="Android"/>
-        <parameter name="device" value="Galaxy S21"/>
-        <classes>
-            <class name="AppTest"/>
-        </classes>
-    </test>
+<!--    <test name="AppTest 2">-->
+<!--        <parameter name="version" value="11"/>-->
+<!--        <parameter name="platform" value="Android"/>-->
+<!--        <parameter name="device" value="Galaxy S21"/>-->
+<!--        <classes>-->
+<!--            <class name="AppTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 </suite>
